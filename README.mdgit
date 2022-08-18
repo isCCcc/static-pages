@@ -1,0 +1,1 @@
+"# static-pages"  initgit add README.mdgit commit -m "init"git branch -M maingit remote add origin git@github.com:isCCcc/static-pages.gitgit push -u origin main
